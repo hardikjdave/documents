@@ -1,2 +1,1 @@
-https://medium.com/@JeremyLaine/server-side-pagination-and-filtering-with-angular-6-280a7909e783
-https://ciphertrick.com/2015/08/31/server-side-pagination-in-angularjs/ 
+Modifying the file
